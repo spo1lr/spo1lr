@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=blinking&text=👋%20Hi,%20I'm%20Soobin&animation=fadeIn&fontSize=46&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=blinking&text=👋%20Hi,%20I'm%20Subin&animation=fadeIn&fontSize=46&fontAlignY=55)
 <h3 align="center">📚 Tech Stack 📚</h3>
 
 <p align="center">
